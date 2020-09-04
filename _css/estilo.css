@@ -1,1 +1,15 @@
-@charse "UTF-8"
+@charset UTF-8;
+@font-face {
+  font-family: 'FonteLogo';
+  src: url("../_fonts/bubblegum-sans-regular.otf");  
+	
+}
+body {
+	background-color: #dddddd;
+	color:rgba(0,0,0,1);
+	font-family: Arial, sans-serif;
+}
+fieldset#linha{
+    top:50px;
+}
+form
